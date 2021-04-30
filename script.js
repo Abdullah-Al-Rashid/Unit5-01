@@ -1,5 +1,5 @@
-function myFunction() {
-  var str = 'Hello,World!';
-  var result = str.fontcolor('purple');
+function myfunction () {
+  let str = 'Hello,World!';
+  let result = str.fontcolor('purple');
   document.getElementById('demo').innerHTML = result;
 }
